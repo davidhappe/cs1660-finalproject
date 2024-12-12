@@ -1,7 +1,7 @@
 # cs1660-finalproject
 A garbage static webapp that demonstrates Miracle Sort.
 
-# LIVE NOW AT: http://cs1660.dev
+# LIVE NOW AT: http://www.cs1660.dev
 
 ## What is Miracle sort?
 Simple:
